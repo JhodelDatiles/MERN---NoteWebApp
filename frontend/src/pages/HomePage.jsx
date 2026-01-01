@@ -1,6 +1,6 @@
 import {useEffect, useState} from 'react';
 
-import Navbar from '../components/NavBar'
+import Navbar from '../components/Navbar'
 import RateLimitedUI from '../components/RateLimitedUI';
 import NoteCard from '../components/NoteCard';
 import NotesNotFound from '../components/NotesNotFound';
